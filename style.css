@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.colorFlipper{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+h1{
+margin-bottom: 30px;
+margin-top: 30px;
+
+}
+.btnclass{
+    
+}
+button{
+    padding: 10px;
+   margin: 10px;
+   width:100px ;
+   height:50px;
+   border-radius: 10px;
+   border: none;
+   background-color: rgb(139, 147, 154);
+   text-align: center;
+}
+#btn1{
+    background-color: red;
+    font-size: medium;
+    
+}
+#btn2{
+    background-color: green;
+    font-size: medium;
+}
+#btn3{
+    background-color:purple;
+    font-size: medium;
+}
+#btn4{
+    background-color: rgb(240, 234, 222);
+    font-size: medium;
+}
